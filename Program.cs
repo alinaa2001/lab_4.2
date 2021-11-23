@@ -4,9 +4,9 @@ namespace lab_4._2_2
 {
     class Program
     {
-        static void Multiply()
+        static void Divide()
         {
-            Console.WriteLine("A + B = " + (a * b));
+            Console.WriteLine("A + B = " + (a / b));
         }
     }
 }
