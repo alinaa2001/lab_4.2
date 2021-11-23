@@ -4,9 +4,10 @@ namespace lab_4._2_2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Addition()
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("выполнить операцию «+»");
+            Console.WriteLine("A + B = " + (a + b));
         }
     }
 }
