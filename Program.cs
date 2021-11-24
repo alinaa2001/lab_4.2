@@ -25,6 +25,11 @@ namespace lab_4._2
             }
             while (menuResult != items.Length - 1);
         }
+        
+        static void Multiply()
+        {
+            Console.WriteLine("A + B = " + (a * b));
+        }
     }
 
 
