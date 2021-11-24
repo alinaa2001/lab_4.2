@@ -25,7 +25,8 @@ namespace lab_4._2
             }
             while (menuResult != items.Length - 1);
         }
-         static void Subtract()
+        
+        static void Subtract()
         {
             Console.WriteLine("A + B = " + (a - b));
         }
